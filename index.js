@@ -5,3 +5,6 @@ function holaa(){
 function feature(){
     console.log("Holaaa en feature")
 }
+function release(){
+    console.log("release")
+}
